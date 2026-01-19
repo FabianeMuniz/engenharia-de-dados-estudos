@@ -33,3 +33,8 @@ Um pipeline de dados é um fluxo automatizado que realiza:
 - Construção de um pipeline de dados
 - Projeto prático para portfólio
 
+- ## 📂 Estrutura do Repositório
+- sql/
+  - queries.sql
+
+
